@@ -1,0 +1,7 @@
+steps followed:-
+1)i have created a class in which we have created an instance of firefox driver.
+2)here webdriver driver declared is Firefox driver.
+3)function driver.get navigate to the given link where one can login/ sign up.
+4)functions element.sendkeys navigates to images/audio/video sections where one can modify or select any thing as per the requirement.
+5)validations in test case may be for changing the password/privacy settings.
+6)Here the test case are automated for number of users and the functionalty and authentication will be the same.
